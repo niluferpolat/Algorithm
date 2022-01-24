@@ -32,3 +32,11 @@ Time Complexity of this array is average case(For 18)
 6. [8,11,16,21,22]
 
 Big O Notation--->O(nlog<sub>n</sub>)
+
+## Binary Search Tree
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2]
+
+           [5]
+      [2]         [8]
+ [0][1] [3][4]   [7]
+                [6][9]
